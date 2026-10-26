@@ -10,7 +10,7 @@ Built for markets where Telegram is the main messenger and crypto payments are a
 > **This repository is a showcase. It contains no source code.**
 > The full source code is delivered after purchase — see [Price and terms](#price-and-terms).
 
-![Crypto-payment classifieds marketplace](images/1-cover.png)
+![Crypto-payment classifieds marketplace](1-cover.png)
 
 ## Try it
 
@@ -28,8 +28,8 @@ roles, money operations) are turned off for the shared account.
 
 | | |
 |---|---|
-| ![Categories](images/2-categories.png) | ![Listing page](images/3-listing.png) |
-| ![Shops](images/4-shops.png) | ![Monetization](images/5-monetization.png) |
+| ![Categories](2-categories.png) | ![Listing page](3-listing.png) |
+| ![Shops](4-shops.png) | ![Monetization](5-monetization.png) |
 
 ## Features
 
